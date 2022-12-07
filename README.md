@@ -4,3 +4,8 @@ show what I know and develop my skills in JS.<br>
 <br><br><br>
 SEVENTH PROJECT:<br>
 <br><br>
+
+
+<br>
+If You want find my new projects that thet will show on my profile, come to Repositories section on my profile.
+More projects will be realese on december.

@@ -10,6 +10,7 @@ SEVENTH PROJECT:<br>
 
 
 ![Zrzut ekranu (15)](https://user-images.githubusercontent.com/99299154/207295158-e2b68323-c3fd-4120-8dd5-4cdbed90947b.png)
+<br>
 
 
 <br>

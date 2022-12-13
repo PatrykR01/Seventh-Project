@@ -11,6 +11,12 @@ SEVENTH PROJECT:<br>
 
 ![Zrzut ekranu (15)](https://user-images.githubusercontent.com/99299154/207295158-e2b68323-c3fd-4120-8dd5-4cdbed90947b.png)
 <br>
+2. I learned about funcionality in JavaScript.<br>
+3. I learned plenty of new things about query selectors.<br>
+4. Learned about the DRY in projects. 
+5. New features to use in next projects like making layouts or doing good looking graphic side of games.<br>
+<br>
+<br>
 
 
 <br>

@@ -5,6 +5,12 @@ show what I know and develop my skills in JS.<br>
 SEVENTH PROJECT:<br>
 <br><br>
 
+1. Using new knowledgde in building functions that have a big influence on logic in code.
+<br>
+
+
+![Zrzut ekranu (15)](https://user-images.githubusercontent.com/99299154/207295158-e2b68323-c3fd-4120-8dd5-4cdbed90947b.png)
+
 
 <br>
 If You want find my new projects that thet will show on my profile, come to Repositories section on my profile.
